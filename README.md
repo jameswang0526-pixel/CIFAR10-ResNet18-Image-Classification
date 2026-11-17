@@ -257,7 +257,7 @@ To use the trained model without retraining:
 2. Place it inside `runs/resnet18/`.
 3. Run `evaluate.py`, `visualize.py`, or `predict.py`.
 
-**GitHub Release:** [Add your model checkpoint release link here]
+**GitHub Release:** https://github.com/jameswang0526-pixel/CIFAR10-ResNet18-Image-Classification/releases
 
 ## Technologies Used
 
