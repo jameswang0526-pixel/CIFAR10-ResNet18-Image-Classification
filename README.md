@@ -254,7 +254,7 @@ Model checkpoints are excluded from the Git repository to avoid unnecessarily in
 To use the trained model without retraining:
 
 1. Download `best.pt` from the project's GitHub Releases.
-2. Place it inside `runs/resnet18/`.
+2. Create a folder `runs/resnet18/` and Place it inside.
 3. Run `evaluate.py`, `visualize.py`, or `predict.py`.
 
 **GitHub Release:** https://github.com/jameswang0526-pixel/CIFAR10-ResNet18-Image-Classification/releases
